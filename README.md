@@ -1,3 +1,5 @@
+<h1>Project Overview: </h1>
+
 This project will simulate a banking system where you can manage customers, accounts, and transactions efficiently. There are 3 classes, all under the Bank package.
 The bank class is the class where our code is ran. It has the main method and this is the class that the user interacts with when they use it.
 
@@ -10,3 +12,6 @@ method in the class. We may also get and return their names and addresses with t
 
 The expected output file is an image of an example output. Note that the entered name, Mike, and the entered address, Boston, alongside the entered numbers, do not impact
 the code's functionality and that you, as the user, can enter any given name, address, or deposit/withdraw any amount of money as you wish. 
+
+<h1>Expected Output: </h1>
+<img width="566" height="682" alt="image" src="https://github.com/user-attachments/assets/8b55ef87-b873-4698-bd16-29cdbaf31b28" />
